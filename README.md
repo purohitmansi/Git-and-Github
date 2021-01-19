@@ -1,3 +1,3 @@
 # Git-and-Github
 
-[Your Link Here](guides.github.com/introduction/git-handbook/)
+[Your Link Here](https://guides.github.com/introduction/git-handbook/)
